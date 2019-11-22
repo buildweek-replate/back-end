@@ -9,7 +9,7 @@ This backend will allow users to register for `Replate`, allow businesses to cre
 The API can be found at the following url:
 
 ```
-Zeit URL coming soon
+https://back-end-3x3qcyeuw.now.sh/
 ```
 
 ## Getting Started (Local)
